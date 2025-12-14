@@ -69,7 +69,7 @@ The analysis provides:
 - Sentiment distribution visualizations
 - Word clouds for positive and negative sentiments
 - Model accuracy and classification reports
-- Insights into brand perception based on social media data
+- Insights into brand perception based on social media data.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
