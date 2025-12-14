@@ -2,17 +2,6 @@
 
 This project performs sentiment analysis on Twitter data to understand brand perception. It uses Natural Language Processing (NLP) techniques to analyze social media content and classify sentiments as Positive, Negative, or Neutral.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 The notebook `NLP_TWITTER_ANALYSIS.ipynb` contains a comprehensive analysis including:
 - Data exploration and preprocessing
